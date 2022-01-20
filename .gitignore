@@ -90,3 +90,4 @@ appdata/nginx/common/*
 !appdata/nginx/common/*.example
 
 secrets
+.env
